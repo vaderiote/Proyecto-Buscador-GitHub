@@ -2,6 +2,8 @@
 
 App para buscar usuarios de GitHub construida con React + TypeScript + Tailwind.
 
+"Live demo: https://proyecto-buscador-git-hub.vercel.app/"
+
 ## Tech stack
 - React 18 + TypeScript
 - Vite
